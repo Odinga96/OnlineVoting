@@ -1,9 +1,9 @@
-<?php  
-  require 'files/header.php';
-?>
-<div class="holderr">
-	<div class="leftside">rrrrrrrrrr</div>
-	<div class="Center">dsfjsfskfsdfjs</div>
-	<div class="rightSide">dsmfdsfjsd</div>
-</div>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Hello</title>
+</head>
+<body>
+   <a href="files/includes/login/loginPage.php">Login</a>
 </body>
+</html>
